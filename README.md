@@ -37,7 +37,7 @@ Outputs: Recommendations around therapy options, lifestyle adjustments, or psych
 
 Role: Focuses on respiratory system evaluation, looking for conditions like asthma or breathing dysfunctions.
 
-Outputs: Advice on pulmonary tests, breathing techniques, and respiratory care strategies.
+**Outputs:** Advice on pulmonary tests, breathing techniques, and respiratory care strategies.
 ---
 
 ## 📁 Project Layout
